@@ -11,25 +11,20 @@
 
 
 
-
 CmpDeepDive
-Questo progetto è stato generato con la versione 18.0.0-next.2 di Angular CLI.
+Questo progetto è stato creato con Angular CLI versione 18.0.0-next.2.
 
 Server di sviluppo
-Esegui ng serve per avviare il server di sviluppo. Naviga su http://localhost:4200/. 
-L'applicazione si ricaricherà automaticamente se modifichi uno dei file sorgente.
+Esegui il comando ng serve per avviare il server di sviluppo. L'applicazione sarà accessibile su http://localhost:4200/, e si ricaricherà automaticamente se modifichi i file sorgenti.
 
 Scaffolding del codice
-Esegui ng generate component nome-componente per generare un nuovo componente.
-Puoi anche usare ng generate directive|pipe|service|class|guard|interface|enum|module.
+Usa il comando ng generate component nome-componente per creare un nuovo componente. Puoi anche generare altri elementi come direttive, servizi, classi, interfacce, enum e moduli con comandi simili.
 
 Build
-Esegui ng build per compilare il progetto.
-Gli artefatti di build saranno archiviati nella directory dist/.
+Esegui ng build per compilare il progetto. I file generati saranno salvati nella cartella dist/.
 
 Esecuzione dei test unitari
-Esegui ng test per eseguire i test unitari tramite Karma.
+Per eseguire i test unitari, usa ng test. I test verranno eseguiti tramite Karma.
 
 Esecuzione dei test end-to-end
-Esegui ng e2e per eseguire i test end-to-end tramite una piattaforma a tua scelta. 
-Per usare questo comando, devi prima aggiungere un pacchetto che implementi le funzionalità di test end-to-end.
+Esegui ng e2e per i test end-to-end, ma assicurati prima di configurare un pacchetto per i test end-to-end.
