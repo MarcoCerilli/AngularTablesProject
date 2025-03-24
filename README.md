@@ -1,27 +1,17 @@
-# CmpDeepDive
+CmpDeepDive
+Questo progetto è stato generato con la versione 18.0.0-next.2 di Angular CLI.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
+Server di sviluppo
+Esegui ng serve per avviare il server di sviluppo. Naviga su http://localhost:4200/. L'applicazione si ricaricherà automaticamente se modifichi uno dei file sorgente.
 
-## Development server
+Scaffolding del codice
+Esegui ng generate component nome-componente per generare un nuovo componente. Puoi anche usare ng generate directive|pipe|service|class|guard|interface|enum|module.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Build
+Esegui ng build per compilare il progetto. Gli artefatti di build saranno archiviati nella directory dist/.
 
-## Code scaffolding
+Esecuzione dei test unitari
+Esegui ng test per eseguire i test unitari tramite Karma.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Esecuzione dei test end-to-end
+Esegui ng e2e per eseguire i test end-to-end tramite una piattaforma a tua scelta. Per usare questo comando, devi prima aggiungere un pacchetto che implementi le funzionalità di test end-to-end.
