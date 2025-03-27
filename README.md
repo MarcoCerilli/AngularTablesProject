@@ -1,27 +1,30 @@
-# CmpDeepDive
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
 
-## Development server
+![image](https://github.com/user-attachments/assets/d3d63e57-7d45-47e9-a944-92d80fc20fca)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+CmpDeepDive
+Questo progetto è stato creato con Angular CLI versione 18.0.0-next.2.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Server di sviluppo
+Esegui il comando ng serve per avviare il server di sviluppo. L'applicazione sarà accessibile su http://localhost:4200/, e si ricaricherà automaticamente se modifichi i file sorgenti.
+
+Scaffolding del codice
+Usa il comando ng generate component nome-componente per creare un nuovo componente. Puoi anche generare altri elementi come direttive, servizi, classi, interfacce, enum e moduli con comandi simili.
+
+Build
+Esegui ng build per compilare il progetto. I file generati saranno salvati nella cartella dist/.
+
+Esecuzione dei test unitari
+Per eseguire i test unitari, usa ng test. I test verranno eseguiti tramite Karma.
+
+Esecuzione dei test end-to-end
+Esegui ng e2e per i test end-to-end, ma assicurati prima di configurare un pacchetto per i test end-to-end.
